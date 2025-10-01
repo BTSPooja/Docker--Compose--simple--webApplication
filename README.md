@@ -11,4 +11,7 @@ docker-compose up -d
 3.how to check----> 
 docker ps -a
 
+4. How to down/terminate docker-compose---->
+docker-compose down
+
 
